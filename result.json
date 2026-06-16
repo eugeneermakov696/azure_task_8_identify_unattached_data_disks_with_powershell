@@ -1,5 +1,5 @@
 {
-  "ResourceGroupName": "MATE-AZURE-TASK-5",
+  "ResourceGroupName": "mate-azure-task-5",
   "ManagedBy": null,
   "ManagedByExtended": [],
   "Sku": {
@@ -43,7 +43,7 @@
   },
   "MaxShares": null,
   "ShareInfo": [],
-  "Id": "/subscriptions/cc6246e3-eace-40aa-83af-94d5f0c991c7/resourceGroups/MATE-AZURE-TASK-5/providers/Microsoft.Compute/disks/vm1data-disk",
+  "Id": "/subscriptions/cc6246e3-eace-40aa-83af-94d5f0c991c7/resourceGroups/mate-azure-task-5/providers/Microsoft.Compute/disks/vm1data-disk",
   "Name": "vm1data-disk",
   "Type": "Microsoft.Compute/disks",
   "Location": "ukwest",
